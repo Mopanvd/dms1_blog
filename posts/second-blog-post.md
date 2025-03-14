@@ -8,8 +8,6 @@ allow_math: true
 
 # This is a heading!!
 
-<a href="/" class="block mt-4 text-blue-500">← Back to home</a>
-
 This is some content.
 
 ![drik bottle](week1/IMG_2021.webp)
