@@ -10,4 +10,4 @@ allow_math: true
 
 This is some content.
 
-![drik bottle](IMG_2021.webp)
+![drik bottle](week1/IMG_2021.webp)
