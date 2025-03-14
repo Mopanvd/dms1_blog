@@ -92,7 +92,6 @@ Visit [ $\KaTeX$ ](https://katex.org/docs/supported#fractions-and-binomials) for
     }
 
     draw_frame ()
-<a href="/" class="block mt-4 text-blue-500">← Back to home</a>
 </script>
 
 
