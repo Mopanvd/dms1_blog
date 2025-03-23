@@ -32,4 +32,7 @@ First of all, I like aerobic exercise very much. Therefore, I like to go for a w
 
 <a href="https://www.youtube.com/watch?v=GoJoC7V4vzY" target="_blank">click to watch</a>
 
+This short two minute video encompasses two of my passions, walking and climbing. I like to see beautiful scenery, especially after physical exertion, when I am most tired, I can see the scenery that makes me feel comfortable physically and mentally. Therefore, I used the video I recorded before to make this self-portrait. The music in the video is free and copyright-free music I found in the Youtube music library. And after my debugging, it has as many card points as possible.
+
+
 
