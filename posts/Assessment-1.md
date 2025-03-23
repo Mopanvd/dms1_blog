@@ -30,4 +30,4 @@ I made a video about walking and climbing.
 
 <a href="https://www.youtube.com/watch?v=GoJoC7V4vzY" target="_blank">点击观看视频</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=GoJoC7V4vzY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=9C2WeoV5RhY&list=RD9C2WeoV5RhY&start_radio=1" frameborder="0" allowfullscreen></iframe>
