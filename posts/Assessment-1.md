@@ -28,6 +28,4 @@ I made a video about walking and climbing.
 
 </script>
 
-<a href="https://www.youtube.com/watch?v=GoJoC7V4vzY" target="_blank">click to watch</a>
-
-<iframe id="test" width="560" height="315" src="https://www.youtube.com/embed/GoJoC7V4vzY?si=-_Wd8YgqBVc5_r0h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="2560" height="1440" src="https://www.youtube.com/embed/GoJoC7V4vzY" title="Walking and Hiking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
