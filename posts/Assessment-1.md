@@ -25,3 +25,5 @@ I made a video about walking and climbing.
     const iframe  = document.getElementById (`Walking and Hiking`)
     iframe.width  = iframe.parentNode.scrollWidth
     iframe.height = iframe.width * 9 / 16
+
+    !{video}(https://www.youtube.com/watch?v=GoJoC7V4vzY)
