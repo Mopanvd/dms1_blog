@@ -27,10 +27,3 @@ I made a video about walking and climbing.
     iframe.height = iframe.width * 9 / 16
 
 </script>
-
-<a href="https://www.youtube.com/watch?v=GoJoC7V4vzY" target="_blank">点击观看视频</a>
-
-<iframe width="560" height="315" 
-    src="https://www.youtube.com/watch?v=GoJoC7V4vzY" 
-    frameborder="0" allowfullscreen>
-</iframe>
