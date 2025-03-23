@@ -15,4 +15,13 @@ I made a video about walking and climbing.
 ![drik bottle](week1/storyboard.jpg)
 
 # This is video portrait:
-https://www.youtube.com/watch?v=GoJoC7V4vzY
+
+<iframe id="Walking and Hiking" src="https://www.youtube.com/watch?v=GoJoC7V4vzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<script type="module">
+
+    console.log (`hello world! 🚀`)
+
+    const iframe  = document.getElementById (`coding_train_video`)
+    iframe.width  = iframe.parentNode.scrollWidth
+    iframe.height = iframe.width * 9 / 16
