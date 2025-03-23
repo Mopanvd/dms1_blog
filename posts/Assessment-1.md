@@ -28,4 +28,4 @@ I made a video about walking and climbing.
 
 </script>
 
-<a href="https://www.youtube.com/watch?v=GoJoC7V4vzY" target="_blank">点击观看视频</a>
+<a href="https://www.youtube.com/watch?v=GoJoC7V4vzY" target="_blank">click to watch</a>
