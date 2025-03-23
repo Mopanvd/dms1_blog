@@ -27,17 +27,3 @@ I made a video about walking and climbing.
     iframe.height = iframe.width * 9 / 16
 
 </script>
-    
-## Embedding video:
-
-<iframe id="coding_train_video" src="https://www.youtube.com/embed/rI_y2GAlQFM?si=RDgjkpunxk1mQzMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<script type="module">
-
-    console.log (`hello world! 🚀`)
-
-    const iframe  = document.getElementById (`coding_train_video`)
-    iframe.width  = iframe.parentNode.scrollWidth
-    iframe.height = iframe.width * 9 / 16
-
-</script>
