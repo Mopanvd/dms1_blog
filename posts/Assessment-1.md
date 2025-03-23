@@ -36,3 +36,15 @@ This short two minute video encompasses two of my passions, walking and climbing
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
