@@ -14,6 +14,8 @@ I made a video about walking and climbing.
 # This is a storyboard!
 ![drik bottle](week1/storyboard.jpg)
 
+First of all, I like aerobic exercise very much. Therefore, I like to go for a walk in the city when I have free time. So the first frame of the storyboard opens the window, which means that the new day is sunny and perfect for walking. Then I arrive under the clock in the center of Melbourne, indicating that this is the place where I passed. Then there is a series of places I walked. Then I arrived at the beach and recorded the beautiful sunset, which means that I spent a day walking. Then the scene changes to me climbing a mountain. There are dozens of seconds of me climbing the mountain, and finally I successfully reach the top.
+
 ## This is video portrait:
 
 <iframe id="Walking and Hiking" src="https://www.youtube.com/embed/GoJoC7V4vzY?si=-_Wd8YgqBVc5_r0h" title="introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
