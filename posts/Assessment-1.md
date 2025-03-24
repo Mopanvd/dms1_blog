@@ -50,7 +50,10 @@ For example, the sounds of fists and other objects hitting our characters give u
 Without these sounds, the movements would seem more cartoonish and the animated characters would appear disembodied or invincible.
 
 The sounds of bells and wind are what best reflect this aspect in my videos.
+## Music
+The music I used is copyright-free music from the Youtube music library. The reason I chose this music is that it sounds very positive and upbeat. And it has a rhythmic beat. It is very suitable for walking videos. It is very good with the transitions.
 
+Music：Thinking of us
 
 
 
