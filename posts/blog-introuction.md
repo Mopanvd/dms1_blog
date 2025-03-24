@@ -15,3 +15,6 @@ I am from China. I have lived in Australia for 4 years.In Australia I completed 
 Why did I choose digital media?I can’t give a standard answer myself. But what is certain is that I am interested in digital media. Because I like playing games and watching videos. I especially like to watch some funny videos posted by bloggers. This makes me happy and yearning. Because the blogger in the video is happily making videos, he can also get a lot of money. Isn’t this what most people aspire to make money while playing? This may be my goal. Although I’m not sure about my future direction.
 
 ![drink bottle](week1/moutaintop.jpg)
+
+# landscape
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BpMKF2XoxQk" title="Open the window" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
