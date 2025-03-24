@@ -34,7 +34,17 @@ First of all, I like aerobic exercise very much. Therefore, I like to go for a w
 
 This short two minute video encompasses two of my passions, walking and climbing. I like to see beautiful scenery, especially after physical exertion, when I am most tired, I can see the scenery that makes me feel comfortable physically and mentally. Therefore, I used the video I recorded before to make this self-portrait. The music in the video is free and copyright-free music I found in the Youtube music library. And after my debugging, it has as many card points as possible.
 
+## sonic elements
 
+Matenalisation
+• Emotion
+• Attention
+• Sounds ears and amotion
+Materialization is the use of sound to tell the audience about the material reality of objects behind the screen.
+The choice to include sound effects over dialogue may be due to the action and animated nature of the show. Sound effects can indicate the material reality of the animated subject.
+For example, the sounds of fists and other objects hitting our characters give us a sense of the weight and impact of the objects and the damage each hit causes to our characters.
+Without these sounds, the movements would seem more cartoonish and the animated characters would appear disembodied or invincible.
+The sounds of bells and wind are what best reflect this aspect in my videos.
 
 
 
