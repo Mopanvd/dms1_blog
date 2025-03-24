@@ -36,10 +36,12 @@ This short two minute video encompasses two of my passions, walking and climbing
 
 ## sonic elements
 
-Matenalisation
+ Matenalisation
 • Emotion
 • Attention
 • Sounds ears and amotion
+
+！
 Materialization is the use of sound to tell the audience about the material reality of objects behind the screen.
 
 The choice to include sound effects over dialogue may be due to the action and animated nature of the show. Sound effects can indicate the material reality of the animated subject.
