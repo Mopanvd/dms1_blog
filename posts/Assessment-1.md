@@ -41,9 +41,13 @@ Matenalisation
 • Attention
 • Sounds ears and amotion
 Materialization is the use of sound to tell the audience about the material reality of objects behind the screen.
+
 The choice to include sound effects over dialogue may be due to the action and animated nature of the show. Sound effects can indicate the material reality of the animated subject.
+
 For example, the sounds of fists and other objects hitting our characters give us a sense of the weight and impact of the objects and the damage each hit causes to our characters.
+
 Without these sounds, the movements would seem more cartoonish and the animated characters would appear disembodied or invincible.
+
 The sounds of bells and wind are what best reflect this aspect in my videos.
 
 
