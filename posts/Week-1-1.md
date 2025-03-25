@@ -1,6 +1,6 @@
 ---
-title: Mopa's introduction!
-published_at: 2025-03-07
+title: Week 1 session 1!
+published_at: 2025-03-03
 snippet: Nice to meet you!
 disable_html_sanitization: true
 allow_math: true
@@ -16,5 +16,17 @@ Why did I choose digital media?I can’t give a standard answer myself. But what
 
 ![drink bottle](week1/moutaintop.jpg)
 
+Today is our first day of school. We went treasure hunting in the school. There are ten places to search. But we only found five.
+
+This is some content.
+
+![drik bottle](week1/IMG_2021.webp)
+![drik bottle](week1/IMG_2022.webp)
+![drik bottle](week1/IMG_2023.webp)
+![drik bottle](week1/IMG_2024.webp)
+![drik bottle](week1/IMG_2025.webp)
+
 # landscape
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BpMKF2XoxQk" title="Open the window" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+This is the best view I can see in my living room every day.
