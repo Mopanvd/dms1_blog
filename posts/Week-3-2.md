@@ -15,6 +15,8 @@ This is the feedback I got
 
 ![drik bottle](week1/feedback.png)
 
+It seems that they all like my video very much. The only drawback is that the angles of some walking shots are not very good. Actually, what I want to say is that I used a sports camera. At that time, I hung it around my neck and didn't notice that it was crooked. I will pay attention to it next time when shooting properly.
+
 ## This is final video:
 
 <iframe id="Walking and Hiking" src="https://www.youtube.com/embed/GoJoC7V4vzY?si=-_Wd8YgqBVc5_r0h" title="introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
