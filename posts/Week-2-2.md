@@ -1,6 +1,6 @@
 ---
 title: Week 2 session 2!
-published_at: 2025-03-07
+published_at: 2025-03-14
 snippet: Music
 disable_html_sanitization: true
 allow_math: true

@@ -1,6 +1,6 @@
 ---
 title: Week 3 session 1!
-published_at: 2025-03-07
+published_at: 2025-03-21
 snippet: video self-portrait!
 disable_html_sanitization: true
 allow_math: true

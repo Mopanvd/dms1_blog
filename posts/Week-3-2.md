@@ -1,6 +1,6 @@
 ---
 title: Week 3 session 2!
-published_at: 2025-03-07
+published_at: 2025-03-24
 snippet: Reviews and feedback!
 disable_html_sanitization: true
 allow_math: true
