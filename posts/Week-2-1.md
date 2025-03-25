@@ -1,6 +1,6 @@
 ---
 title: Week 2 session 1!
-published_at: 2025-03-10
+published_at: 2025-03-14
 snippet: Storyboard!
 disable_html_sanitization: true
 allow_math: true
