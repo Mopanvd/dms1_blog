@@ -5,7 +5,13 @@ snippet: color
 disable_html_sanitization: true
 allow_math: true
 ---
-
+# Pen Tool Exercises！
+Challenge 1：
+![drik bottle](week4/p1.png)
+Challenge 2：
+![drik bottle](week4/p2.png)
+Challenge 3：
+![drik bottle](week4/p3.png)
 # color design!
 
 ![drik bottle](week4/wek5.1.png)
