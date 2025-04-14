@@ -1,7 +1,11 @@
 ---
 title: Week 6 session 2!
 published_at: 2025-04-14
-snippet: color
+snippet: submit work
 disable_html_sanitization: true
 allow_math: true
 ---
+
+# Final work
+
+<iframe src="https://mopanvd-at2icon-25.deno.dev/"></iframe>
