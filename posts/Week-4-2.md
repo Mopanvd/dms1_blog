@@ -8,6 +8,8 @@ allow_math: true
 
 # Thumbnail Sketches Practice
 
+This is a quick 10-minute sketch of an Icon I made during class.
+
 ![drik bottle](week4/Thumbnail_Sketches_Practice.jpg)
 
 
