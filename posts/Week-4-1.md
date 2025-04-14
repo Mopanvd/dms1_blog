@@ -6,6 +6,10 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
+
+# Black Squares Activity ！
+![drik bottle](week4/blacksquares.png)
+
 # Study！
 In this study, I learned how to use illustrator simply, such as how to make a simple graphic, and how to draw with only a pen.
 
