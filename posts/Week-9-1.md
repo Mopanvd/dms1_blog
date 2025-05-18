@@ -10,3 +10,7 @@ allow_math: true
 
 I shared my game with my friend Koen and told him my inspiration and ideas for the game. He liked my game very much.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6JbyekBxLg8" title="share game with my friend" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# fix
+Someone responded to me saying she couldn't get into the room after opening the door. Due to technical issues, I just left the door open.
+![drik bottle](Week7-9/dor.png)
