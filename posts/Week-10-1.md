@@ -19,9 +19,9 @@ I'm going to start by introducing myself and then move on to showing my work.
 # cool portfolios
 https://jollycreativeagency.com/
 
-![drik bottle](Week12/1.png)
+![drik bottle](week12/1.png)
 
 
 https://www.newrafael.com/
 
-![drik bottle](Week12/2.png)
+![drik bottle](week12/2.png)
