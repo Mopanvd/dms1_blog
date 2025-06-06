@@ -38,6 +38,4 @@ The story changes when you climb the small mountain and find that the world is s
 
 ![drik bottle](week12/3.png)
 
-![drik bottle](week12/4.png)
-
-![drik bottle](week12/5.png)
+![drik bottle](week12/6.png)
