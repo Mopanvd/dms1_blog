@@ -27,5 +27,5 @@ After continuous testing, I found that the wireframe corners bent 80 degrees is 
 ![drik bottle](week12/8.png)
 
 
-![drik bottle](week12/9.png)
+
 
