@@ -15,3 +15,4 @@ The self-introduction at the beginning is also removed and replaced directly wit
 
 ![drik bottle](week12/14.png)
 
+![drik bottle](week12/19.png)
