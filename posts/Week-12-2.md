@@ -9,6 +9,7 @@ allow_math: true
 # finished
 
 This portfolio shows my cross-disciplinary creative practice this semester, from web design to 3D modeling and video production. I used Unity to build 3D scenes and character interactions, combined Illustrator and Photoshop for visual material design, and used Premiere Pro to complete video editing and dynamic presentation. Throughout the process, I continued to explore between creative ideas and technical implementation, and gradually established a comprehensive design capability that integrates planes, images, and space. 
+
 I will continue to work hard in the future.
 
 ## webpage
